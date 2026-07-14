@@ -56,9 +56,10 @@ PAGE = r"""<!DOCTYPE html>
   #panel .route { font-weight: 700; }
   #panel .meta { color: #555; font-size: 12px; margin-top: 2px; }
   .box { border-top: 1px solid #eee; }
-  .box-head { padding: 5px 0; cursor: pointer; }
+  .box-head { padding: 5px 0; cursor: pointer; display: flex; align-items: center; gap: 4px; }
   .box-head:hover { background: #f2f6ff; }
-  .box-head .caret { display: inline-block; width: 14px; color: #999; }
+  .box-head .caret { flex-shrink: 0; width: 14px; color: #999; }
+  .box-head .head-main { flex: 1; min-width: 0; }
   .box-body { padding: 0 0 6px 14px; }
   .box.collapsed .box-body { display: none; }
   .locatebtn { display: inline-block; font-size: 11px; color: #1976d2;
@@ -103,11 +104,11 @@ PAGE = r"""<!DOCTYPE html>
     border: 2px solid #fff; font-size: 13px;
   }
   .followbtn {
-    display: inline-block; font-size: 10px; color: #1976d2; cursor: pointer;
-    margin-top: 3px; text-decoration: none;
-    border: 1px solid #1976d2; border-radius: 8px; padding: 1px 7px;
+    flex-shrink: 0; display: inline-block; font-size: 11px; font-weight: 600;
+    color: #fff; background: #1976d2; cursor: pointer; text-decoration: none;
+    border: none; border-radius: 10px; padding: 3px 10px; white-space: nowrap;
   }
-  .followbtn:hover { background: #e3f2fd; }
+  .followbtn:hover { background: #1565c0; }
   #followback { margin: 0 0 4px; }
   #backlink { font-size: 11px; color: #1976d2; text-decoration: none; }
   #followlabel { font-size: 11px; color: #777; margin-left: 6px; }
@@ -536,17 +537,39 @@ function render(data) {
       : T().near + ' ' + nm(b,'location_stop') + ofN;
     head.innerHTML =
       '<span class="caret">' + (expanded ? '▾' : '▸') + '</span>'
+      + '<span class="head-main">'
       + '<span class="route" style="color:'+col+'">'+(nm(b,'route')||b.routeNumber||'?')+'</span>'
       + loopTag + depTag
       + '<div class="meta">'+etaText
       + (b.vehicleName ? ' · #'+b.vehicleName : '')
-      + ' · '+whereTxt+'</div>';
+      + ' · '+whereTxt+'</div>'
+      + '</span>';
+    // follow button in header — built separately so onclick doesn't get serialised
+    const fid = followId == null ? busFollowId(b) : null;
+    if (fid) {
+      const followBtn = document.createElement('a');
+      followBtn.className = 'followbtn';
+      followBtn.textContent = 'follow';
+      followBtn.onclick = (e) => {
+        e.stopPropagation();
+        const label = nm(b, 'route') || b.routeNumber || '?';
+        let nextStops = [];
+        if (b.predeparture && b.stops && b.stops.length) {
+          const boardIdx = b.stops.findIndex(s => s.name === b.boardStop);
+          const startIdx = boardIdx >= 0 ? boardIdx + 1 : 0;
+          nextStops = b.stops.slice(startIdx, startIdx + 5).map(s => s.name);
+        }
+        setFollow(fid, label, b.runParams || null, b.routeNumber || null,
+                  b.boardTime || null, nextStops);
+      };
+      head.appendChild(followBtn);
+    }
     head.onclick = () => {
       if (expandedRoutes.has(key)) expandedRoutes.delete(key);
       else expandedRoutes.add(key);
-      render(lastData);   // re-render with new expand state
+      render(lastData);
     };
-    // body (collapsible) — progress strip (+ locate button for running buses)
+    // body (collapsible) — progress strip + locate button
     const body = document.createElement('div');
     body.className = 'box-body';
     if (b.times) body.innerHTML = '<div class="times">'+b.times+'</div>';
@@ -557,29 +580,6 @@ function render(data) {
       locate.textContent = T().showOnMap;
       locate.onclick = (e) => { e.stopPropagation(); map.setView(ll, 16); markers[key].openPopup(); };
       body.appendChild(locate);
-    }
-    if (followId == null) {
-      const fid = busFollowId(b);
-      if (fid) {
-        const followBtn = document.createElement('a');
-        followBtn.className = 'followbtn';
-        followBtn.textContent = 'follow';
-        followBtn.style.marginLeft = '6px';
-        followBtn.onclick = (e) => {
-          e.stopPropagation();
-          const label = nm(b, 'route') || b.routeNumber || '?';
-          // For predep buses: collect stop names after the board stop for probing
-          let nextStops = [];
-          if (b.predeparture && b.stops && b.stops.length) {
-            const boardIdx = b.stops.findIndex(s => s.name === b.boardStop);
-            const startIdx = boardIdx >= 0 ? boardIdx + 1 : 0;
-            nextStops = b.stops.slice(startIdx, startIdx + 5).map(s => s.name);
-          }
-          setFollow(fid, label, b.runParams || null, b.routeNumber || null,
-                    b.boardTime || null, nextStops);
-        };
-        body.appendChild(followBtn);
-      }
     }
 
     box.appendChild(head);
