@@ -1,0 +1,3108 @@
+{
+"customerCd": "1",
+"count": 517,
+"stops": [
+{
+"code": "120294",
+"name": "いちょう通り",
+"kana": "いちょうとうり",
+"romaji": "ichoutouri"
+},
+{
+"code": "110364",
+"name": "うぐいす園前",
+"kana": "うぐいすそのまえ",
+"romaji": "uguisusonomae"
+},
+{
+"code": "120124",
+"name": "かぶと公園",
+"kana": "かぶとこうえん",
+"romaji": "kabutokouen"
+},
+{
+"code": "120105",
+"name": "こぶし公園",
+"kana": "こぶしこうえん",
+"romaji": "kobushikouen"
+},
+{
+"code": "120115",
+"name": "さくら通り入口",
+"kana": "さくらとうりいりぐち",
+"romaji": "sakuratouriiriguchi"
+},
+{
+"code": "110177",
+"name": "さざめざく",
+"kana": "さざめざく",
+"romaji": "sazamezaku"
+},
+{
+"code": "110311",
+"name": "さつき台",
+"kana": "さつきだい",
+"romaji": "satsukidai"
+},
+{
+"code": "310129",
+"name": "ひょうたん",
+"kana": "ひょうたん",
+"romaji": "hyoutan"
+},
+{
+"code": "310150",
+"name": "ふるさとの森入口",
+"kana": "ふるさとのもりいりぐち",
+"romaji": "furusatonomoriiriguchi"
+},
+{
+"code": "110175",
+"name": "アンデルセン公園",
+"kana": "あんでるせんこうえん",
+"romaji": "anderusenkouen"
+},
+{
+"code": "110173",
+"name": "アンデルセン公園西口",
+"kana": "あんでるせんこうえんにしぐち",
+"romaji": "anderusenkouennishiguchi"
+},
+{
+"code": "110635",
+"name": "イオンモール船橋",
+"kana": "いおんもーるふなばし",
+"romaji": "ionmoorufunabashi"
+},
+{
+"code": "120243",
+"name": "ウィズタウン前",
+"kana": "うぃずたうんまえ",
+"romaji": "uizutaunmae"
+},
+{
+"code": "110108",
+"name": "エステート夏見",
+"kana": "えすてーとなつみ",
+"romaji": "esuteetonatsumi"
+},
+{
+"code": "110213",
+"name": "コープ野村",
+"kana": "こーぷのむら",
+"romaji": "koopunomura"
+},
+{
+"code": "310314",
+"name": "サンシャイン前",
+"kana": "さんしゃいんまえ",
+"romaji": "sanshainmae"
+},
+{
+"code": "520312",
+"name": "ショッピングタウン",
+"kana": "しょっぴんぐたうん",
+"romaji": "shoppingutaun"
+},
+{
+"code": "110627",
+"name": "ショッピングプラザ",
+"kana": "しょっぴんぐぷらざ",
+"romaji": "shoppingupuraza"
+},
+{
+"code": "110189",
+"name": "セコメディック病院",
+"kana": "せこめでぃっくびょういん",
+"romaji": "sekomedikkubyouin"
+},
+{
+"code": "120148",
+"name": "テラスモール松戸北口",
+"kana": "てらすもーるまつどきたぐち",
+"romaji": "terasumoorumatsudokitaguchi"
+},
+{
+"code": "110258",
+"name": "デュオヒルズ前",
+"kana": "でゅおひるずまえ",
+"romaji": "deyuohiruzumae"
+},
+{
+"code": "310151",
+"name": "ニュータウン七次台",
+"kana": "にゅーたうんしちつぎだい",
+"romaji": "nyuutaunshichitsugidai"
+},
+{
+"code": "110190",
+"name": "ハイランド",
+"kana": "はいらんど",
+"romaji": "hairando"
+},
+{
+"code": "120127",
+"name": "ハワイ通り",
+"kana": "はわいとうり",
+"romaji": "hawaitouri"
+},
+{
+"code": "120139",
+"name": "バス案内所",
+"kana": "ばすあんないじょ",
+"romaji": "basuannaijo"
+},
+{
+"code": "120221",
+"name": "フィオリの丘",
+"kana": "ふぃおりのおか",
+"romaji": "fiorinooka"
+},
+{
+"code": "110702",
+"name": "フレッシュタウン北",
+"kana": "ふれっしゅたうんきた",
+"romaji": "furesshutaunkita"
+},
+{
+"code": "110704",
+"name": "フレッシュタウン南",
+"kana": "ふれっしゅたうんみなみ",
+"romaji": "furesshutaunminami"
+},
+{
+"code": "110241",
+"name": "ベネッセの有料老人ホーム・ここち船橋夏見",
+"kana": "べねっせのゆうりょうろうじんほーむ・ここちふなばしなつみ",
+"romaji": "benessenoyuuryouroujinhoomu・kokochifunabashinatsumi"
+},
+{
+"code": "310313",
+"name": "ミヤコシ",
+"kana": "みやこし",
+"romaji": "miyakoshi"
+},
+{
+"code": "110179",
+"name": "モリタ船橋工場前・ふなばしメグスパ前",
+"kana": "もりたふなばしこうじょうまえ・ふなばしめぐすぱまえ",
+"romaji": "moritafunabashikoujoumae・funabashimegusupamae"
+},
+{
+"code": "310127",
+"name": "ヤマザキグランド前",
+"kana": "やまざきぐらんどまえ",
+"romaji": "yamazakigurandomae"
+},
+{
+"code": "120109",
+"name": "ユーカリ前",
+"kana": "ゆーかりまえ",
+"romaji": "yuukarimae"
+},
+{
+"code": "110235",
+"name": "リッチランド豊南郷",
+"kana": "りっちらんどほうなんさと",
+"romaji": "ritchirandohounansato"
+},
+{
+"code": "110239",
+"name": "一丁目",
+"kana": "いっちょうめ",
+"romaji": "itchoume"
+},
+{
+"code": "110340",
+"name": "一号棟前",
+"kana": "いちごうとうまえ",
+"romaji": "ichigoutoumae"
+},
+{
+"code": "120226",
+"name": "一本松",
+"kana": "いっぽんまつ",
+"romaji": "ipponmatsu"
+},
+{
+"code": "110300",
+"name": "七号通り",
+"kana": "しちごうとうり",
+"romaji": "shichigoutouri"
+},
+{
+"code": "110106",
+"name": "七軒家",
+"kana": "しちけんいえ",
+"romaji": "shichikenie"
+},
+{
+"code": "310147",
+"name": "三丁目",
+"kana": "さんちょうめ",
+"romaji": "sanchoume"
+},
+{
+"code": "120211",
+"name": "三区入口",
+"kana": "さんくいりぐち",
+"romaji": "sankuiriguchi"
+},
+{
+"code": "110167",
+"name": "三咲三叉路",
+"kana": "みさきさんさろ",
+"romaji": "misakisansaro"
+},
+{
+"code": "110166",
+"name": "三咲東郵便局",
+"kana": "みさきひがしゆうびんきょく",
+"romaji": "misakihigashiyuubinkyoku"
+},
+{
+"code": "110168",
+"name": "三咲神社前",
+"kana": "みさきじんじゃまえ",
+"romaji": "misakijinjamae"
+},
+{
+"code": "110392",
+"name": "三咲霊園",
+"kana": "みさきれいえん",
+"romaji": "misakireien"
+},
+{
+"code": "110164",
+"name": "三咲駅",
+"kana": "みさきえき",
+"romaji": "misakieki"
+},
+{
+"code": "210125",
+"name": "三本椚",
+"kana": "さんぼんくぬぎ",
+"romaji": "sanbonkunugi"
+},
+{
+"code": "120110",
+"name": "三村新町",
+"kana": "みむらしんまち",
+"romaji": "mimurashinmachi"
+},
+{
+"code": "120216",
+"name": "三矢小台",
+"kana": "みつやおだい",
+"romaji": "mitsuyaodai"
+},
+{
+"code": "110109",
+"name": "三軒家",
+"kana": "さんげんや",
+"romaji": "sangenya"
+},
+{
+"code": "120208",
+"name": "上の台",
+"kana": "うわのだい",
+"romaji": "uwanodai"
+},
+{
+"code": "120236",
+"name": "上本郷一丁目",
+"kana": "かみほんごういっちょうめ",
+"romaji": "kamihongouitchoume"
+},
+{
+"code": "120235",
+"name": "上本郷二丁目",
+"kana": "かみほんごうにちょうめ",
+"romaji": "kamihongounichoume"
+},
+{
+"code": "120232",
+"name": "上本郷郵便局",
+"kana": "かみほんごうゆうびんきょく",
+"romaji": "kamihongouyuubinkyoku"
+},
+{
+"code": "120201",
+"name": "中割",
+"kana": "なかわり",
+"romaji": "nakawari"
+},
+{
+"code": "120207",
+"name": "中参道",
+"kana": "なかさんどう",
+"romaji": "nakasandou"
+},
+{
+"code": "110263",
+"name": "中央通り",
+"kana": "ちゅうおうどおり",
+"romaji": "chuuoudoori"
+},
+{
+"code": "310146",
+"name": "中学校",
+"kana": "ちゅうがっこう",
+"romaji": "chuugakkou"
+},
+{
+"code": "110296",
+"name": "中学校入口",
+"kana": "ちゅうがっこういりぐち",
+"romaji": "chuugakkouiriguchi"
+},
+{
+"code": "110165",
+"name": "中組入口",
+"kana": "なかくみいれくち",
+"romaji": "nakakumiirekuchi"
+},
+{
+"code": "120168",
+"name": "中金杉",
+"kana": "ちゅうきんすぎ",
+"romaji": "chuukinsugi"
+},
+{
+"code": "120177",
+"name": "串崎入口",
+"kana": "くしさきいりぐち",
+"romaji": "kushisakiiriguchi"
+},
+{
+"code": "110317",
+"name": "丸山一丁目",
+"kana": "まるやまいっちょうめ",
+"romaji": "maruyamaitchoume"
+},
+{
+"code": "110381",
+"name": "丸山中央商店会",
+"kana": "まるやまちゅうおうしょうてんかい",
+"romaji": "maruyamachuuoushoutenkai"
+},
+{
+"code": "110382",
+"name": "丸山公園",
+"kana": "まるやまこうえん",
+"romaji": "maruyamakouen"
+},
+{
+"code": "110379",
+"name": "丸山公民館入口",
+"kana": "まるやまこうみんかんいりぐち",
+"romaji": "maruyamakouminkaniriguchi"
+},
+{
+"code": "110390",
+"name": "丸山小学校",
+"kana": "まるやましょうがっこう",
+"romaji": "maruyamashougakkou"
+},
+{
+"code": "110318",
+"name": "丸山市民の森",
+"kana": "まるやましみんのもり",
+"romaji": "maruyamashiminnomori"
+},
+{
+"code": "110116",
+"name": "丸山道",
+"kana": "まるやまみち",
+"romaji": "maruyamamichi"
+},
+{
+"code": "110383",
+"name": "丸山２丁目",
+"kana": "まるやま２ちょうめ",
+"romaji": "maruyama2choume"
+},
+{
+"code": "110387",
+"name": "丸山３丁目中",
+"kana": "まるやま３ちょうめなか",
+"romaji": "maruyama3choumenaka"
+},
+{
+"code": "110385",
+"name": "丸山３丁目北",
+"kana": "まるやま３ちょうめきた",
+"romaji": "maruyama3choumekita"
+},
+{
+"code": "110388",
+"name": "丸山３丁目南",
+"kana": "まるやま３ちょうめみなみ",
+"romaji": "maruyama3choumeminami"
+},
+{
+"code": "110386",
+"name": "丸山３丁目東",
+"kana": "まるやま３ちょうめひがし",
+"romaji": "maruyama3choumehigashi"
+},
+{
+"code": "110378",
+"name": "丸山５丁目",
+"kana": "まるやま５ちょうめ",
+"romaji": "maruyama5choume"
+},
+{
+"code": "120140",
+"name": "久保下",
+"kana": "くぼした",
+"romaji": "kuboshita"
+},
+{
+"code": "120128",
+"name": "久保平賀",
+"kana": "くぼひらが",
+"romaji": "kubohiraga"
+},
+{
+"code": "120219",
+"name": "二十世紀ヶ丘",
+"kana": "にじゅっせいきゖおか",
+"romaji": "nijusseikikeoka"
+},
+{
+"code": "110370",
+"name": "二和向台駅",
+"kana": "ふたわむかえだいえき",
+"romaji": "futawamukaedaieki"
+},
+{
+"code": "110185",
+"name": "二和向台駅入口",
+"kana": "ふたわむかえだいえきいりぐち",
+"romaji": "futawamukaedaiekiiriguchi"
+},
+{
+"code": "110160",
+"name": "二和小学校",
+"kana": "ふたわしょうがっこう",
+"romaji": "futawashougakkou"
+},
+{
+"code": "110161",
+"name": "二和火の見下",
+"kana": "ふたわひのけんした",
+"romaji": "futawahinokenshita"
+},
+{
+"code": "110162",
+"name": "二和町",
+"kana": "ふたわまち",
+"romaji": "futawamachi"
+},
+{
+"code": "110163",
+"name": "二和町入口",
+"kana": "ふたわまちいりぐち",
+"romaji": "futawamachiiriguchi"
+},
+{
+"code": "210118",
+"name": "二和道",
+"kana": "ふたわみち",
+"romaji": "futawamichi"
+},
+{
+"code": "110274",
+"name": "二宮出張所",
+"kana": "にのみやしゅっちょうしょ",
+"romaji": "ninomiyashutchousho"
+},
+{
+"code": "110282",
+"name": "二宮神社前",
+"kana": "にのみやじんじゃまえ",
+"romaji": "ninomiyajinjamae"
+},
+{
+"code": "110104",
+"name": "二軒家",
+"kana": "にけんいえ",
+"romaji": "nikenie"
+},
+{
+"code": "120274",
+"name": "五中入口",
+"kana": "ごちゅういりぐち",
+"romaji": "gochuuiriguchi"
+},
+{
+"code": "110301",
+"name": "五号通り",
+"kana": "ごごうとうり",
+"romaji": "gogoutouri"
+},
+{
+"code": "210535",
+"name": "五本松小学校",
+"kana": "ごほんまつしょうがっこう",
+"romaji": "gohonmatsushougakkou"
+},
+{
+"code": "120180",
+"name": "五香駅",
+"kana": "ごこうえき",
+"romaji": "gokoueki"
+},
+{
+"code": "120181",
+"name": "五香駅前郵便局",
+"kana": "ごこうえきまえゆうびんきょく",
+"romaji": "gokouekimaeyuubinkyoku"
+},
+{
+"code": "120169",
+"name": "五香駅西口",
+"kana": "ごこうえきにしぐち",
+"romaji": "gokouekinishiguchi"
+},
+{
+"code": "210124",
+"name": "井草",
+"kana": "いぐさ",
+"romaji": "igusa"
+},
+{
+"code": "210339",
+"name": "井草商店会",
+"kana": "いぐさしょうてんかい",
+"romaji": "igusashoutenkai"
+},
+{
+"code": "210327",
+"name": "井草橋",
+"kana": "いぐさはし",
+"romaji": "igusahashi"
+},
+{
+"code": "210328",
+"name": "井草橋第二公園",
+"kana": "いぐさはしだいにこうえん",
+"romaji": "igusahashidainikouen"
+},
+{
+"code": "210330",
+"name": "井草県営住宅",
+"kana": "いぐさけんえいじゅうたく",
+"romaji": "igusaken'eijuutaku"
+},
+{
+"code": "120129",
+"name": "交通公園",
+"kana": "こうつうこうえん",
+"romaji": "koutsuukouen"
+},
+{
+"code": "120182",
+"name": "京成住宅",
+"kana": "けいせいじゅうたく",
+"romaji": "keiseijuutaku"
+},
+{
+"code": "120200",
+"name": "京成分譲地入口",
+"kana": "けいせいぶんじょうちいりぐち",
+"romaji": "keiseibunjouchiiriguchi"
+},
+{
+"code": "110238",
+"name": "京葉ガス前",
+"kana": "けいようがすまえ",
+"romaji": "keiyougasumae"
+},
+{
+"code": "110178",
+"name": "住友大阪セメント研究所・東京学館",
+"kana": "すみともおおさかせめんとけんきゅうしょ・とうきょうがっかん",
+"romaji": "sumitomooosakasementokenkyuusho・toukyougakkan"
+},
+{
+"code": "110612",
+"name": "保健福祉センター",
+"kana": "ほけんふくしせんたー",
+"romaji": "hokenfukushisentaa"
+},
+{
+"code": "110337",
+"name": "児童遊園",
+"kana": "じどうゆうえん",
+"romaji": "jidouyuuen"
+},
+{
+"code": "120209",
+"name": "八ヶ崎",
+"kana": "はちゖさき",
+"romaji": "hachikesaki"
+},
+{
+"code": "120146",
+"name": "八ヶ崎入口",
+"kana": "はちゖさきいりぐち",
+"romaji": "hachikesakiiriguchi"
+},
+{
+"code": "410315",
+"name": "八千代緑が丘駅",
+"kana": "やちよみどりがおかえき",
+"romaji": "yachiyomidorigaokaeki"
+},
+{
+"code": "310315",
+"name": "八千代緑が丘駅",
+"kana": "やちよみどりがおかえき",
+"romaji": "yachiyomidorigaokaeki"
+},
+{
+"code": "120154",
+"name": "八原台",
+"kana": "やはらだい",
+"romaji": "yaharadai"
+},
+{
+"code": "120153",
+"name": "八坂神社前",
+"kana": "やさかじんじゃまえ",
+"romaji": "yasakajinjamae"
+},
+{
+"code": "310292",
+"name": "八幡神社",
+"kana": "はちまんじんじゃ",
+"romaji": "hachimanjinja"
+},
+{
+"code": "110396",
+"name": "八木が谷北",
+"kana": "やぎがたにきた",
+"romaji": "yagigatanikita"
+},
+{
+"code": "110373",
+"name": "八木が谷北小学校入口",
+"kana": "やぎがたにきたしょうがっこういりぐち",
+"romaji": "yagigatanikitashougakkouiriguchi"
+},
+{
+"code": "110372",
+"name": "八木が谷第1公園",
+"kana": "やぎがたにだい1こうえん",
+"romaji": "yagigatanidai1kouen"
+},
+{
+"code": "110374",
+"name": "八木が谷第２県営住宅",
+"kana": "やぎがたにだいにけんえいじゅうたく",
+"romaji": "yagigatanidainiken'eijuutaku"
+},
+{
+"code": "110371",
+"name": "八木が谷３丁目",
+"kana": "やぎがたに３ちょうめ",
+"romaji": "yagigatani3choume"
+},
+{
+"code": "110624",
+"name": "八木が谷３丁目西",
+"kana": "やぎがたに３ちょうめにし",
+"romaji": "yagigatani3choumenishi"
+},
+{
+"code": "110375",
+"name": "八木が谷４丁目",
+"kana": "やぎがたに４ちょうめ",
+"romaji": "yagigatani4choume"
+},
+{
+"code": "110186",
+"name": "八木ヶ谷入口",
+"kana": "やぎゖたにいりぐち",
+"romaji": "yagiketaniiriguchi"
+},
+{
+"code": "120205",
+"name": "八柱霊園",
+"kana": "やばしられいえん",
+"romaji": "yabashirareien"
+},
+{
+"code": "120121",
+"name": "八柱駅",
+"kana": "やばしらえき",
+"romaji": "yabashiraeki"
+},
+{
+"code": "110242",
+"name": "八栄小学校入口",
+"kana": "はちさかえしょうがっこういりぐち",
+"romaji": "hachisakaeshougakkouiriguchi"
+},
+{
+"code": "110244",
+"name": "八栄橋",
+"kana": "はちさかえはし",
+"romaji": "hachisakaehashi"
+},
+{
+"code": "120117",
+"name": "公団入口",
+"kana": "こうだんいりぐち",
+"romaji": "koudaniriguchi"
+},
+{
+"code": "110255",
+"name": "公団東口",
+"kana": "こうだんひがしぐち",
+"romaji": "koudanhigashiguchi"
+},
+{
+"code": "310144",
+"name": "公園前（白井市）",
+"kana": "こうえんまえ（しらいし）",
+"romaji": "kouenmae(shiraishi)"
+},
+{
+"code": "110201",
+"name": "公園前（船橋市）",
+"kana": "こうえんまえ（ふなばしし）",
+"romaji": "kouenmae(funabashishi)"
+},
+{
+"code": "110309",
+"name": "公民館",
+"kana": "こうみんかん",
+"romaji": "kouminkan"
+},
+{
+"code": "120266",
+"name": "分実",
+"kana": "ふんみ",
+"romaji": "funmi"
+},
+{
+"code": "110184",
+"name": "分譲地入口",
+"kana": "ぶんじょうちいりぐち",
+"romaji": "bunjouchiiriguchi"
+},
+{
+"code": "110199",
+"name": "刈米",
+"kana": "かりこめ",
+"romaji": "karikome"
+},
+{
+"code": "210534",
+"name": "初富稲荷神社入口",
+"kana": "はつとみいなりじんじゃいりぐち",
+"romaji": "hatsutomiinarijinjairiguchi"
+},
+{
+"code": "210540",
+"name": "初富駅入口",
+"kana": "はつとみえきいりぐち",
+"romaji": "hatsutomiekiiriguchi"
+},
+{
+"code": "120251",
+"name": "初崎",
+"kana": "はつさき",
+"romaji": "hatsusaki"
+},
+{
+"code": "110335",
+"name": "前原東二丁目",
+"kana": "まえはらひがしにちょうめ",
+"romaji": "maeharahigashinichoume"
+},
+{
+"code": "110703",
+"name": "前原東公園",
+"kana": "まえはらひがしこうえん",
+"romaji": "maeharahigashikouen"
+},
+{
+"code": "110336",
+"name": "前原東郵便局",
+"kana": "まえはらひがしゆうびんきょく",
+"romaji": "maeharahigashiyuubinkyoku"
+},
+{
+"code": "110259",
+"name": "前原西",
+"kana": "まえはらにし",
+"romaji": "maeharanishi"
+},
+{
+"code": "110254",
+"name": "前原西八丁目",
+"kana": "まえはらにしはっちょうめ",
+"romaji": "maeharanishihatchoume"
+},
+{
+"code": "110260",
+"name": "前原角",
+"kana": "まえはらかく",
+"romaji": "maeharakaku"
+},
+{
+"code": "110276",
+"name": "前原駅入口",
+"kana": "まえはらえきいりぐち",
+"romaji": "maeharaekiiriguchi"
+},
+{
+"code": "120125",
+"name": "北小金駅",
+"kana": "きたこがねえき",
+"romaji": "kitakoganeeki"
+},
+{
+"code": "120126",
+"name": "北小金駅入口",
+"kana": "きたこがねえきいりぐち",
+"romaji": "kitakoganeekiiriguchi"
+},
+{
+"code": "120158",
+"name": "北小金駅北口",
+"kana": "きたこがねえききたぐち",
+"romaji": "kitakoganeekikitaguchi"
+},
+{
+"code": "110634",
+"name": "北本町２丁目",
+"kana": "きたもとまち２ちょうめ",
+"romaji": "kitamotomachi2choume"
+},
+{
+"code": "120234",
+"name": "北松戸駅",
+"kana": "きたまつどえき",
+"romaji": "kitamatsudoeki"
+},
+{
+"code": "110348",
+"name": "北総白井病院",
+"kana": "ほくそうしらいびょういん",
+"romaji": "hokusoushiraibyouin"
+},
+{
+"code": "110266",
+"name": "北習志野団地入口",
+"kana": "きたならしのだんちいりぐち",
+"romaji": "kitanarashinodanchiiriguchi"
+},
+{
+"code": "110206",
+"name": "北習志野花輪病院前",
+"kana": "きたならしのはなわびょういんまえ",
+"romaji": "kitanarashinohanawabyouinmae"
+},
+{
+"code": "110208",
+"name": "北習志野駅",
+"kana": "きたならしのえき",
+"romaji": "kitanarashinoeki"
+},
+{
+"code": "110205",
+"name": "北習志野駅入口",
+"kana": "きたならしのえきいりぐち",
+"romaji": "kitanarashinoekiiriguchi"
+},
+{
+"code": "110245",
+"name": "北谷津川",
+"kana": "きたたにつがわ",
+"romaji": "kitatanitsugawa"
+},
+{
+"code": "120162",
+"name": "区画整理記念館",
+"kana": "くかくせいりきねんかん",
+"romaji": "kukakuseirikinenkan"
+},
+{
+"code": "110246",
+"name": "医療センター",
+"kana": "いりょうせんたー",
+"romaji": "iryousentaa"
+},
+{
+"code": "110303",
+"name": "千葉徳洲会病院",
+"kana": "ちばとくしゅうかいびょういん",
+"romaji": "chibatokushuukaibyouin"
+},
+{
+"code": "110298",
+"name": "千葉日大一高",
+"kana": "ちばにちだいいちこう",
+"romaji": "chibanichidaiichikou"
+},
+{
+"code": "110253",
+"name": "千葉病院前",
+"kana": "ちばびょういんまえ",
+"romaji": "chibabyouinmae"
+},
+{
+"code": "120152",
+"name": "千葉西病院",
+"kana": "ちばにしびょういん",
+"romaji": "chibanishibyouin"
+},
+{
+"code": "120229",
+"name": "千駄堀口",
+"kana": "せんだぼりくち",
+"romaji": "sendaborikuchi"
+},
+{
+"code": "120244",
+"name": "協立ソリューションズ",
+"kana": "きょうりつそりゅーしょんず",
+"romaji": "kyouritsusoryuushonzu"
+},
+{
+"code": "210319",
+"name": "南児童センター",
+"kana": "みなみじどうせんたー",
+"romaji": "minamijidousentaa"
+},
+{
+"code": "310130",
+"name": "南園",
+"kana": "なんえん",
+"romaji": "nan'en"
+},
+{
+"code": "520310",
+"name": "南流山三丁目",
+"kana": "なんりゅうさんざちょうめ",
+"romaji": "nanryuusanzachoume"
+},
+{
+"code": "520309",
+"name": "南流山駅",
+"kana": "なんりゅうやまえき",
+"romaji": "nanryuuyamaeki"
+},
+{
+"code": "110196",
+"name": "古和釜十字路",
+"kana": "こわかまじゅうじろ",
+"romaji": "kowakamajuujiro"
+},
+{
+"code": "110197",
+"name": "古和釜西口",
+"kana": "こわかまにしぐち",
+"romaji": "kowakamanishiguchi"
+},
+{
+"code": "110198",
+"name": "古和釜高校",
+"kana": "こわかまこうこう",
+"romaji": "kowakamakoukou"
+},
+{
+"code": "120247",
+"name": "吉野工業所前",
+"kana": "よしのこうぎょうところまえ",
+"romaji": "yoshinokougyoutokoromae"
+},
+{
+"code": "120141",
+"name": "向原",
+"kana": "むかいはら",
+"romaji": "mukaihara"
+},
+{
+"code": "110221",
+"name": "吹上",
+"kana": "ふきあげ",
+"romaji": "fukiage"
+},
+{
+"code": "120253",
+"name": "和名ヶ谷",
+"kana": "わみょうゖたに",
+"romaji": "wamyouketani"
+},
+{
+"code": "120286",
+"name": "和名ヶ谷スポーツセンター",
+"kana": "わみょうゖたにすぽーつせんたー",
+"romaji": "wamyouketanisupootsusentaa"
+},
+{
+"code": "120254",
+"name": "和名ヶ谷中台",
+"kana": "わみょうゖやなかだい",
+"romaji": "wamyoukeyanakadai"
+},
+{
+"code": "110183",
+"name": "咲が丘一丁目",
+"kana": "さきがおかいっちょうめ",
+"romaji": "sakigaokaitchoume"
+},
+{
+"code": "110380",
+"name": "商店会入口",
+"kana": "しょうてんかいいりぐち",
+"romaji": "shoutenkaiiriguchi"
+},
+{
+"code": "110338",
+"name": "四号棟前",
+"kana": "しごうとうまえ",
+"romaji": "shigoutoumae"
+},
+{
+"code": "110210",
+"name": "団地センター",
+"kana": "だんちせんたー",
+"romaji": "danchisentaa"
+},
+{
+"code": "110626",
+"name": "団地中央",
+"kana": "だんちちゅうおう",
+"romaji": "danchichuuou"
+},
+{
+"code": "120278",
+"name": "団地中央",
+"kana": "だんちちゅうおう",
+"romaji": "danchichuuou"
+},
+{
+"code": "110209",
+"name": "団地入口",
+"kana": "だんちいりぐち",
+"romaji": "danchiiriguchi"
+},
+{
+"code": "120277",
+"name": "団地入口（松戸市）",
+"kana": "だんちいりぐち（まつどし）",
+"romaji": "danchiiriguchi(matsudoshi)"
+},
+{
+"code": "110202",
+"name": "坂上",
+"kana": "さかうえ",
+"romaji": "sakaue"
+},
+{
+"code": "120104",
+"name": "坂川",
+"kana": "さかがわ",
+"romaji": "sakagawa"
+},
+{
+"code": "110140",
+"name": "塚田入口",
+"kana": "つかだいりぐち",
+"romaji": "tsukadairiguchi"
+},
+{
+"code": "110180",
+"name": "変電所",
+"kana": "へんでんしょ",
+"romaji": "hendensho"
+},
+{
+"code": "120107",
+"name": "変電所（松戸市）",
+"kana": "へんでんしょ（まつどし）",
+"romaji": "hendensho(matsudoshi)"
+},
+{
+"code": "110212",
+"name": "夏見",
+"kana": "なつみ",
+"romaji": "natsumi"
+},
+{
+"code": "110105",
+"name": "夏見北",
+"kana": "なつみきた",
+"romaji": "natsumikita"
+},
+{
+"code": "110107",
+"name": "夏見台団地",
+"kana": "なつみだいだんち",
+"romaji": "natsumidaidanchi"
+},
+{
+"code": "110633",
+"name": "夏見台団地入口",
+"kana": "なつみだいだんちいりぐち",
+"romaji": "natsumidaidanchiiriguchi"
+},
+{
+"code": "110353",
+"name": "夏見台幼稚園・保育園",
+"kana": "なつみだいようちえん・ほいくえん",
+"romaji": "natsumidaiyouchien・hoikuen"
+},
+{
+"code": "110632",
+"name": "夏見台３丁目",
+"kana": "なつみだい３ちょうめ",
+"romaji": "natsumidai3choume"
+},
+{
+"code": "110102",
+"name": "夏見坂下",
+"kana": "なつみさかした",
+"romaji": "natsumisakashita"
+},
+{
+"code": "310284",
+"name": "大和田新田西",
+"kana": "おおわだにったにし",
+"romaji": "oowadanittanishi"
+},
+{
+"code": "110225",
+"name": "大慶山",
+"kana": "たいけいやま",
+"romaji": "taikeiyama"
+},
+{
+"code": "310131",
+"name": "大松入口",
+"kana": "おおまついりぐち",
+"romaji": "oomatsuiriguchi"
+},
+{
+"code": "120270",
+"name": "大橋",
+"kana": "おおはし",
+"romaji": "oohashi"
+},
+{
+"code": "120269",
+"name": "大橋坂下",
+"kana": "おおはしさかした",
+"romaji": "oohashisakashita"
+},
+{
+"code": "110193",
+"name": "大穴",
+"kana": "おおあな",
+"romaji": "ooana"
+},
+{
+"code": "110192",
+"name": "大穴入口",
+"kana": "おおあないりぐち",
+"romaji": "ooanairiguchi"
+},
+{
+"code": "110306",
+"name": "大穴多目的運動広場",
+"kana": "おおあなたもくてきうんどうひろば",
+"romaji": "ooanatamokutekiundouhiroba"
+},
+{
+"code": "110308",
+"name": "大穴小学校",
+"kana": "おおあなしょうがっこう",
+"romaji": "ooanashougakkou"
+},
+{
+"code": "120160",
+"name": "大金平",
+"kana": "たいきんたいら",
+"romaji": "taikintaira"
+},
+{
+"code": "120159",
+"name": "大金平郵便局前",
+"kana": "たいきんたいらゆうびんきょくまえ",
+"romaji": "taikintairayuubinkyokumae"
+},
+{
+"code": "110101",
+"name": "天沼",
+"kana": "あまぬま",
+"romaji": "amanuma"
+},
+{
+"code": "120248",
+"name": "太陽公園",
+"kana": "たいようこうえん",
+"romaji": "taiyoukouen"
+},
+{
+"code": "120255",
+"name": "如来堂前",
+"kana": "にょらいどうまえ",
+"romaji": "nyoraidoumae"
+},
+{
+"code": "110277",
+"name": "宇津木堀",
+"kana": "うつぎほり",
+"romaji": "utsugihori"
+},
+{
+"code": "120193",
+"name": "宿畑",
+"kana": "しゅくばた",
+"romaji": "shukubata"
+},
+{
+"code": "120224",
+"name": "富士見台",
+"kana": "ふじみだい",
+"romaji": "fujimidai"
+},
+{
+"code": "110312",
+"name": "富士見橋",
+"kana": "ふじみはし",
+"romaji": "fujimihashi"
+},
+{
+"code": "310148",
+"name": "小学校",
+"kana": "しょうがっこう",
+"romaji": "shougakkou"
+},
+{
+"code": "110181",
+"name": "小室交差点",
+"kana": "こむろこうさてん",
+"romaji": "komurokousaten"
+},
+{
+"code": "110191",
+"name": "小室公園",
+"kana": "こむろこうえん",
+"romaji": "komurokouen"
+},
+{
+"code": "110182",
+"name": "小室駅",
+"kana": "こむろえき",
+"romaji": "komuroeki"
+},
+{
+"code": "120123",
+"name": "小山台",
+"kana": "こやまだい",
+"romaji": "koyamadai"
+},
+{
+"code": "220187",
+"name": "小新山町入口",
+"kana": "しょうしんざんまちいりぐち",
+"romaji": "shoushinzanmachiiriguchi"
+},
+{
+"code": "120142",
+"name": "小金下町",
+"kana": "こがねしたまち",
+"romaji": "koganeshitamachi"
+},
+{
+"code": "120293",
+"name": "小金中学校",
+"kana": "こがねちゅうがっこう",
+"romaji": "koganechuugakkou"
+},
+{
+"code": "120258",
+"name": "小金原6丁目",
+"kana": "こがねはら6ちょうめ",
+"romaji": "koganehara6choume"
+},
+{
+"code": "120261",
+"name": "小金原8丁目",
+"kana": "こがねはら8ちょうめ",
+"romaji": "koganehara8choume"
+},
+{
+"code": "120150",
+"name": "小金原五丁目",
+"kana": "こがねはらごちょうめ",
+"romaji": "koganeharagochoume"
+},
+{
+"code": "120161",
+"name": "小金城趾駅入口",
+"kana": "こがねじょうしえきいりぐち",
+"romaji": "koganejoushiekiiriguchi"
+},
+{
+"code": "120143",
+"name": "小金小学校",
+"kana": "こがねしょうがっこう",
+"romaji": "koganeshougakkou"
+},
+{
+"code": "120289",
+"name": "小金消防署",
+"kana": "こがねしょうぼうしょ",
+"romaji": "koganeshoubousho"
+},
+{
+"code": "120265",
+"name": "山下",
+"kana": "やました",
+"romaji": "yamashita"
+},
+{
+"code": "110138",
+"name": "山手みどり公園",
+"kana": "やまてみどりこうえん",
+"romaji": "yamatemidorikouen"
+},
+{
+"code": "110139",
+"name": "山手三丁目",
+"kana": "やまてさんちょうめ",
+"romaji": "yamatesanchoume"
+},
+{
+"code": "110137",
+"name": "山手二丁目",
+"kana": "やまてにちょうめ",
+"romaji": "yamatenichoume"
+},
+{
+"code": "110136",
+"name": "山手児童遊園",
+"kana": "やまてじどうゆうえん",
+"romaji": "yamatejidouyuuen"
+},
+{
+"code": "110619",
+"name": "山手入口",
+"kana": "やまていりぐち",
+"romaji": "yamateiriguchi"
+},
+{
+"code": "120227",
+"name": "岩瀬",
+"kana": "いわせ",
+"romaji": "iwase"
+},
+{
+"code": "120241",
+"name": "岩瀬十字路",
+"kana": "いわせじゅうじろ",
+"romaji": "iwasejuujiro"
+},
+{
+"code": "120288",
+"name": "島村トータルケアクリニック",
+"kana": "しまむらとーたるけあくりにっく",
+"romaji": "shimamuratootarukeakurinikku"
+},
+{
+"code": "120245",
+"name": "工業団地",
+"kana": "こうぎょうだんち",
+"romaji": "kougyoudanchi"
+},
+{
+"code": "210536",
+"name": "市制記念公園入口",
+"kana": "しせいきねんこうえんいりぐち",
+"romaji": "shiseikinenkoueniriguchi"
+},
+{
+"code": "110113",
+"name": "市営団地入口",
+"kana": "しえいだんちいりぐち",
+"romaji": "shieidanchiiriguchi"
+},
+{
+"code": "110215",
+"name": "市場三丁目",
+"kana": "しじょうさんちょうめ",
+"romaji": "shijousanchoume"
+},
+{
+"code": "120240",
+"name": "市役所入口",
+"kana": "しやくしょいりぐち",
+"romaji": "shiyakushoiriguchi"
+},
+{
+"code": "120112",
+"name": "市民センター",
+"kana": "しみんせんたー",
+"romaji": "shiminsentaa"
+},
+{
+"code": "110631",
+"name": "市立体育館",
+"kana": "しりつたいいくかん",
+"romaji": "shiritsutaiikukan"
+},
+{
+"code": "110110",
+"name": "市立体育館・市民プール入口",
+"kana": "しりつたいいくかん・しみんぷーるいりぐち",
+"romaji": "shiritsutaiikukan・shiminpuuruiriguchi"
+},
+{
+"code": "120214",
+"name": "市立高校",
+"kana": "しりつこうこう",
+"romaji": "shiritsukoukou"
+},
+{
+"code": "120116",
+"name": "常盤平支所前",
+"kana": "ときわだいらししょまえ",
+"romaji": "tokiwadairashishomae"
+},
+{
+"code": "120114",
+"name": "常盤平駅",
+"kana": "ときわだいらえき",
+"romaji": "tokiwadairaeki"
+},
+{
+"code": "120151",
+"name": "常盤平駅北口",
+"kana": "ときわだいらえききたぐち",
+"romaji": "tokiwadairaekikitaguchi"
+},
+{
+"code": "120167",
+"name": "幸田",
+"kana": "こうだ",
+"romaji": "kouda"
+},
+{
+"code": "120173",
+"name": "幸田第３公園",
+"kana": "こうだだいさんこうえん",
+"romaji": "koudadaisankouen"
+},
+{
+"code": "120164",
+"name": "幸田貝塚",
+"kana": "こうだかいづか",
+"romaji": "koudakaizuka"
+},
+{
+"code": "110207",
+"name": "店舗前",
+"kana": "てんぽまえ",
+"romaji": "tenpomae"
+},
+{
+"code": "120256",
+"name": "庚申塔前",
+"kana": "こうしんとうまえ",
+"romaji": "koushintoumae"
+},
+{
+"code": "120119",
+"name": "建設技術展示館",
+"kana": "けんせつぎじゅつてんじかん",
+"romaji": "kensetsugijutsutenjikan"
+},
+{
+"code": "120130",
+"name": "御堂の上",
+"kana": "みどうのうえ",
+"romaji": "midounoue"
+},
+{
+"code": "110169",
+"name": "御堂前",
+"kana": "みどうまえ",
+"romaji": "midoumae"
+},
+{
+"code": "110275",
+"name": "御嶽神社",
+"kana": "おんたけじんじゃ",
+"romaji": "ontakejinja"
+},
+{
+"code": "110159",
+"name": "御滝不動",
+"kana": "おたきふどう",
+"romaji": "otakifudou"
+},
+{
+"code": "110158",
+"name": "御滝中学校前",
+"kana": "おたきちゅうがっこうまえ",
+"romaji": "otakichuugakkoumae"
+},
+{
+"code": "120171",
+"name": "御立場",
+"kana": "おたちば",
+"romaji": "otachiba"
+},
+{
+"code": "120183",
+"name": "恩田病院入口",
+"kana": "おんだびょういんいりぐち",
+"romaji": "ondabyouiniriguchi"
+},
+{
+"code": "210351",
+"name": "慈祐苑",
+"kana": "じすけえん",
+"romaji": "jisukeen"
+},
+{
+"code": "120264",
+"name": "戸定歴史館",
+"kana": "とじょうれきしかん",
+"romaji": "tojourekishikan"
+},
+{
+"code": "120147",
+"name": "房山",
+"kana": "ぼうやま",
+"romaji": "bouyama"
+},
+{
+"code": "120102",
+"name": "支所前",
+"kana": "ししょまえ",
+"romaji": "shishomae"
+},
+{
+"code": "110334",
+"name": "教習所前",
+"kana": "きょうしゅうじょまえ",
+"romaji": "kyoushuujomae"
+},
+{
+"code": "110291",
+"name": "新木戸",
+"kana": "あらきこ",
+"romaji": "arakiko"
+},
+{
+"code": "120287",
+"name": "新東京病院",
+"kana": "しんとうきょうびょういん",
+"romaji": "shintoukyoubyouin"
+},
+{
+"code": "120292",
+"name": "新松戸一丁目",
+"kana": "しんまつどいっちょうめ",
+"romaji": "shinmatsudoitchoume"
+},
+{
+"code": "120106",
+"name": "新松戸七丁目",
+"kana": "しんまつどしちちょうめ",
+"romaji": "shinmatsudoshichichoume"
+},
+{
+"code": "120103",
+"name": "新松戸五丁目",
+"kana": "しんまつどごちょうめ",
+"romaji": "shinmatsudogochoume"
+},
+{
+"code": "120108",
+"name": "新松戸南小",
+"kana": "しんまつどみなみしょう",
+"romaji": "shinmatsudominamishou"
+},
+{
+"code": "120299",
+"name": "新松戸四丁目",
+"kana": "しんまつどしていめ",
+"romaji": "shinmatsudoshiteime"
+},
+{
+"code": "120291",
+"name": "新松戸東",
+"kana": "しんまつどひがし",
+"romaji": "shinmatsudohigashi"
+},
+{
+"code": "120101",
+"name": "新松戸郵便局前",
+"kana": "しんまつどゆうびんきょくまえ",
+"romaji": "shinmatsudoyuubinkyokumae"
+},
+{
+"code": "120100",
+"name": "新松戸駅",
+"kana": "しんまつどえき",
+"romaji": "shinmatsudoeki"
+},
+{
+"code": "120185",
+"name": "新栄町入口",
+"kana": "しんえいまちいりぐち",
+"romaji": "shin'eimachiiriguchi"
+},
+{
+"code": "510601",
+"name": "新橋駅",
+"kana": "しんばしえき",
+"romaji": "shinbashieki"
+},
+{
+"code": "210333",
+"name": "新津田沼駅",
+"kana": "しんつだぬまえき",
+"romaji": "shintsudanumaeki"
+},
+{
+"code": "110134",
+"name": "新船橋駅",
+"kana": "しんせんはしえき",
+"romaji": "shinsenhashieki"
+},
+{
+"code": "110142",
+"name": "新船橋駅入口",
+"kana": "しんせんはしえきいりぐち",
+"romaji": "shinsenhashiekiiriguchi"
+},
+{
+"code": "210507",
+"name": "新鎌ヶ谷駅",
+"kana": "しんかまゖたにえき",
+"romaji": "shinkamaketanieki"
+},
+{
+"code": "110226",
+"name": "新高根",
+"kana": "にいたかね",
+"romaji": "niitakane"
+},
+{
+"code": "110297",
+"name": "日大習志野高校",
+"kana": "にちだいならしのこうこう",
+"romaji": "nichidainarashinokoukou"
+},
+{
+"code": "120285",
+"name": "日暮一丁目",
+"kana": "ひぐらしいっちょうめ",
+"romaji": "higurashiitchoume"
+},
+{
+"code": "120246",
+"name": "日邦工業前",
+"kana": "にっぽうこうぎょうまえ",
+"romaji": "nippoukougyoumae"
+},
+{
+"code": "110281",
+"name": "旭ヶ丘",
+"kana": "あさひがおか",
+"romaji": "asahigaoka"
+},
+{
+"code": "120233",
+"name": "明治神社",
+"kana": "めいじじんじゃ",
+"romaji": "meijijinja"
+},
+{
+"code": "120250",
+"name": "春木川",
+"kana": "はるきかわ",
+"romaji": "harukikawa"
+},
+{
+"code": "510602",
+"name": "有楽町マリオン前",
+"kana": "ゆうらくちょうまりおんまえ",
+"romaji": "yuurakuchoumarionmae"
+},
+{
+"code": "110287",
+"name": "朋和産業本社",
+"kana": "ともわさんぎょうほんしゃ",
+"romaji": "tomowasangyouhonsha"
+},
+{
+"code": "120212",
+"name": "東",
+"kana": "ひがし",
+"romaji": "higashi"
+},
+{
+"code": "210359",
+"name": "東中沢二丁目",
+"kana": "ひがしなかさわにちょうめ",
+"romaji": "higashinakasawanichoume"
+},
+{
+"code": "510603",
+"name": "東京駅八重洲口",
+"kana": "とうきょうえきやえすぐち",
+"romaji": "toukyouekiyaesuguchi"
+},
+{
+"code": "120198",
+"name": "東松戸駅",
+"kana": "ひがしまつどえき",
+"romaji": "higashimatsudoeki"
+},
+{
+"code": "210533",
+"name": "東武分譲地",
+"kana": "とうぶぶんじょうち",
+"romaji": "toububunjouchi"
+},
+{
+"code": "210539",
+"name": "東武鎌ケ谷駅入口",
+"kana": "とうぶかまけたにえきいりぐち",
+"romaji": "toubukamaketaniekiiriguchi"
+},
+{
+"code": "210354",
+"name": "東武鎌ヶ谷駅",
+"kana": "とうぶかまゖたにえき",
+"romaji": "toubukamaketanieki"
+},
+{
+"code": "110133",
+"name": "東海神駅入口",
+"kana": "とうかいかみえきいりぐち",
+"romaji": "toukaikamiekiiriguchi"
+},
+{
+"code": "110247",
+"name": "東町",
+"kana": "ひがしちょう",
+"romaji": "higashichou"
+},
+{
+"code": "110219",
+"name": "東船橋三丁目",
+"kana": "ひがしふなばしさんちょうめ",
+"romaji": "higashifunabashisanchoume"
+},
+{
+"code": "110218",
+"name": "東船橋駅",
+"kana": "ひがしふなばしえき",
+"romaji": "higashifunabashieki"
+},
+{
+"code": "110217",
+"name": "東船橋駅入口",
+"kana": "ひがしふなばしえきいりぐち",
+"romaji": "higashifunabashiekiiriguchi"
+},
+{
+"code": "120136",
+"name": "東若芝",
+"kana": "ひがしわかしば",
+"romaji": "higashiwakashiba"
+},
+{
+"code": "110251",
+"name": "東葉高校",
+"kana": "とうようこうこう",
+"romaji": "touyoukoukou"
+},
+{
+"code": "110203",
+"name": "東警察署前",
+"kana": "ひがしけいさつしょまえ",
+"romaji": "higashikeisatsushomae"
+},
+{
+"code": "210537",
+"name": "東道野辺七丁目",
+"kana": "あずまみちのべしちちょうめ",
+"romaji": "azumamichinobeshichichoume"
+},
+{
+"code": "110261",
+"name": "東部公民館",
+"kana": "とうぶこうみんかん",
+"romaji": "toubukouminkan"
+},
+{
+"code": "210121",
+"name": "東部小入口",
+"kana": "とうぶしょういりぐち",
+"romaji": "toubushouiriguchi"
+},
+{
+"code": "120273",
+"name": "東部小学校",
+"kana": "とうぶしょうがっこう",
+"romaji": "toubushougakkou"
+},
+{
+"code": "110299",
+"name": "東集会所",
+"kana": "ひがししゅうかいじょ",
+"romaji": "higashishuukaijo"
+},
+{
+"code": "120186",
+"name": "松ノ井町入口",
+"kana": "まつのいまちいりぐち",
+"romaji": "matsunoimachiiriguchi"
+},
+{
+"code": "120295",
+"name": "松戸南高校入口",
+"kana": "まつどみなみだかこういりぐち",
+"romaji": "matsudominamidakakouiriguchi"
+},
+{
+"code": "120271",
+"name": "松戸向陽高校",
+"kana": "まつどこうようこうこう",
+"romaji": "matsudokouyoukoukou"
+},
+{
+"code": "120155",
+"name": "松戸東警察署",
+"kana": "まつどひがしけいさつしょ",
+"romaji": "matsudohigashikeisatsusho"
+},
+{
+"code": "120296",
+"name": "松戸第五中学校",
+"kana": "まつどだいごちゅうがっこう",
+"romaji": "matsudodaigochuugakkou"
+},
+{
+"code": "120242",
+"name": "松戸駅東口",
+"kana": "まつどえきひがしぐち",
+"romaji": "matsudoekihigashiguchi"
+},
+{
+"code": "120179",
+"name": "松飛台",
+"kana": "まつひだい",
+"romaji": "matsuhidai"
+},
+{
+"code": "120170",
+"name": "松飛台入口",
+"kana": "まつひだいいりぐち",
+"romaji": "matsuhidaiiriguchi"
+},
+{
+"code": "120172",
+"name": "松飛台十字路",
+"kana": "まつひだいじゅうじろ",
+"romaji": "matsuhidaijuujiro"
+},
+{
+"code": "120213",
+"name": "松飛台駅",
+"kana": "まつひだいえき",
+"romaji": "matsuhidaieki"
+},
+{
+"code": "120176",
+"name": "松飛台駅入口",
+"kana": "まつひだいえきいりぐち",
+"romaji": "matsuhidaiekiiriguchi"
+},
+{
+"code": "120263",
+"name": "栗ヶ沢テニスコート",
+"kana": "くりゖさわてにすこーと",
+"romaji": "kurikesawatenisukooto"
+},
+{
+"code": "120135",
+"name": "栗ヶ沢中学校",
+"kana": "くりゖさわなかがっこう",
+"romaji": "kurikesawanakagakkou"
+},
+{
+"code": "120133",
+"name": "栗ヶ沢小学校",
+"kana": "くりゖさわしょうがっこう",
+"romaji": "kurikesawashougakkou"
+},
+{
+"code": "120199",
+"name": "栗子橋",
+"kana": "りつこはし",
+"romaji": "ritsukohashi"
+},
+{
+"code": "310143",
+"name": "根",
+"kana": "ね",
+"romaji": "ne"
+},
+{
+"code": "120194",
+"name": "根木内",
+"kana": "ねぎない",
+"romaji": "neginai"
+},
+{
+"code": "120192",
+"name": "根木内中学校",
+"kana": "ねぎないちゅうがっこう",
+"romaji": "neginaichuugakkou"
+},
+{
+"code": "120257",
+"name": "根木内小学校入口",
+"kana": "ねぎないしょうがっこういりぐち",
+"romaji": "neginaishougakkouiriguchi"
+},
+{
+"code": "110157",
+"name": "桜ヶ丘",
+"kana": "さくらがおか",
+"romaji": "sakuragaoka"
+},
+{
+"code": "210355",
+"name": "梨の木通り",
+"kana": "なしのあけびり",
+"romaji": "nashinoakebiri"
+},
+{
+"code": "120220",
+"name": "梨元町",
+"kana": "なしもとまち",
+"romaji": "nashimotomachi"
+},
+{
+"code": "110310",
+"name": "梨園",
+"kana": "りえん",
+"romaji": "rien"
+},
+{
+"code": "120279",
+"name": "梨香台団地",
+"kana": "りかだいだんち",
+"romaji": "rikadaidanchi"
+},
+{
+"code": "110141",
+"name": "森のシティ",
+"kana": "もりのしてぃ",
+"romaji": "morinoshitei"
+},
+{
+"code": "120157",
+"name": "森のホール２１公園中央口",
+"kana": "もりのほーる２１こうえんちゅうおうぐち",
+"romaji": "morinohooru21kouenchuuouguchi"
+},
+{
+"code": "110231",
+"name": "楠ヶ山",
+"kana": "くすのきゖやま",
+"romaji": "kusunokikeyama"
+},
+{
+"code": "210320",
+"name": "横下",
+"kana": "よこした",
+"romaji": "yokoshita"
+},
+{
+"code": "120132",
+"name": "殿内",
+"kana": "とのうち",
+"romaji": "tonouchi"
+},
+{
+"code": "120210",
+"name": "水砂",
+"kana": "みずすな",
+"romaji": "mizusuna"
+},
+{
+"code": "120204",
+"name": "河原塚",
+"kana": "かわらつか",
+"romaji": "kawaratsuka"
+},
+{
+"code": "120252",
+"name": "河原塚中学校",
+"kana": "かわらつかちゅうがっこう",
+"romaji": "kawaratsukachuugakkou"
+},
+{
+"code": "120203",
+"name": "河原塚坂上",
+"kana": "かわらつかさかうえ",
+"romaji": "kawaratsukasakaue"
+},
+{
+"code": "120178",
+"name": "泉ヶ丘団地入口",
+"kana": "いずみがおかだんちいりぐち",
+"romaji": "izumigaokadanchiiriguchi"
+},
+{
+"code": "110377",
+"name": "法典東小学校",
+"kana": "ほうてんひがししょうがっこう",
+"romaji": "houtenhigashishougakkou"
+},
+{
+"code": "110285",
+"name": "津田沼グリーンハイツ",
+"kana": "つだぬまぐりーんはいつ",
+"romaji": "tsudanumaguriinhaitsu"
+},
+{
+"code": "210262",
+"name": "津田沼駅",
+"kana": "つだぬまえき",
+"romaji": "tsudanumaeki"
+},
+{
+"code": "110204",
+"name": "浄水場",
+"kana": "じょうすいじょう",
+"romaji": "jousuijou"
+},
+{
+"code": "120163",
+"name": "浅間公園",
+"kana": "あさまこうえん",
+"romaji": "asamakouen"
+},
+{
+"code": "110135",
+"name": "海神中学校前",
+"kana": "うみがみちゅうがっこうまえ",
+"romaji": "umigamichuugakkoumae"
+},
+{
+"code": "110307",
+"name": "海老ヶ作",
+"kana": "えびゖさく",
+"romaji": "ebikesaku"
+},
+{
+"code": "310145",
+"name": "清水口",
+"kana": "しみずくち",
+"romaji": "shimizukuchi"
+},
+{
+"code": "110200",
+"name": "清水山",
+"kana": "しみずやま",
+"romaji": "shimizuyama"
+},
+{
+"code": "110273",
+"name": "滝台",
+"kana": "たきだい",
+"romaji": "takidai"
+},
+{
+"code": "120120",
+"name": "牧の原団地",
+"kana": "まきのはらだんち",
+"romaji": "makinoharadanchi"
+},
+{
+"code": "120118",
+"name": "牧の原小学校",
+"kana": "まきのはらしょうがっこう",
+"romaji": "makinoharashougakkou"
+},
+{
+"code": "110171",
+"name": "特別支援学校入口",
+"kana": "とくべつしえんがっこういりぐち",
+"romaji": "tokubetsushiengakkouiriguchi"
+},
+{
+"code": "110233",
+"name": "特別養護老人ホーム（プレーゲ船橋）",
+"kana": "とくべつようごろうじんほーむ（ぷれーげふなばし）",
+"romaji": "tokubetsuyougoroujinhoomu(pureegefunabashi)"
+},
+{
+"code": "120202",
+"name": "田中新田",
+"kana": "たなかにった",
+"romaji": "tanakanitta"
+},
+{
+"code": "110280",
+"name": "田喜野井",
+"kana": "たきのい",
+"romaji": "takinoi"
+},
+{
+"code": "110279",
+"name": "田喜野井入口",
+"kana": "たきのいいりぐち",
+"romaji": "takinoiiriguchi"
+},
+{
+"code": "110701",
+"name": "田喜野井四丁目",
+"kana": "たきのいしていめ",
+"romaji": "takinoishiteime"
+},
+{
+"code": "310126",
+"name": "白井ロジュマン前",
+"kana": "しらいろじゅまんまえ",
+"romaji": "shirairojumanmae"
+},
+{
+"code": "110187",
+"name": "白百合団地入口",
+"kana": "しらゆりだんちいりぐち",
+"romaji": "shirayuridanchiiriguchi"
+},
+{
+"code": "120231",
+"name": "看護専門学校前",
+"kana": "かんごせんもんがっこうまえ",
+"romaji": "kangosenmongakkoumae"
+},
+{
+"code": "110174",
+"name": "県民の森",
+"kana": "けんみんのもり",
+"romaji": "kenminnomori"
+},
+{
+"code": "120228",
+"name": "県立松戸高校",
+"kana": "けんりつまつどこうこう",
+"romaji": "kenritsumatsudokoukou"
+},
+{
+"code": "120206",
+"name": "神戸船舶装備前",
+"kana": "こうべせんぱくそうびまえ",
+"romaji": "koubesenpakusoubimae"
+},
+{
+"code": "110630",
+"name": "神明社",
+"kana": "じんめいしゃ",
+"romaji": "jinmeisha"
+},
+{
+"code": "110194",
+"name": "神社前",
+"kana": "じんじゃまえ",
+"romaji": "jinjamae"
+},
+{
+"code": "120272",
+"name": "秋山",
+"kana": "あきやま",
+"romaji": "akiyama"
+},
+{
+"code": "120275",
+"name": "秋山駅",
+"kana": "あきやまえき",
+"romaji": "akiyamaeki"
+},
+{
+"code": "120276",
+"name": "秋山駅入口",
+"kana": "あきやまえきいりぐち",
+"romaji": "akiyamaekiiriguchi"
+},
+{
+"code": "110363",
+"name": "秋葉神社",
+"kana": "あきばじんじゃ",
+"romaji": "akibajinja"
+},
+{
+"code": "120249",
+"name": "稔台十字路",
+"kana": "みのるだいじゅうじろ",
+"romaji": "minorudaijuujiro"
+},
+{
+"code": "120238",
+"name": "竹ヶ花",
+"kana": "たけゖはな",
+"romaji": "takekehana"
+},
+{
+"code": "110237",
+"name": "第一小学校前",
+"kana": "だいいちしょうがっこうまえ",
+"romaji": "daiichishougakkoumae"
+},
+{
+"code": "120156",
+"name": "第三小学校",
+"kana": "だいさんしょうがっこう",
+"romaji": "daisanshougakkou"
+},
+{
+"code": "110265",
+"name": "第二小学校入口（船橋市）",
+"kana": "だいにしょうがっこういりぐち（ふなばしし）",
+"romaji": "dainishougakkouiriguchi(funabashishi)"
+},
+{
+"code": "120165",
+"name": "第二市営住宅前",
+"kana": "だいにしえいじゅうたくまえ",
+"romaji": "dainishieijuutakumae"
+},
+{
+"code": "120134",
+"name": "笹塚（松戸市）",
+"kana": "ささづか（まつどし）",
+"romaji": "sasazuka(matsudoshi)"
+},
+{
+"code": "210326",
+"name": "管理事務所前",
+"kana": "かんりじむしょまえ",
+"romaji": "kanrijimushomae"
+},
+{
+"code": "110257",
+"name": "管理事務所前（船橋市）",
+"kana": "かんりじむしょまえ（ふなばしし）",
+"romaji": "kanrijimushomae(funabashishi)"
+},
+{
+"code": "110361",
+"name": "米ヶ崎",
+"kana": "こめゖさき",
+"romaji": "komekesaki"
+},
+{
+"code": "120215",
+"name": "紙敷車庫",
+"kana": "かみしきしゃこ",
+"romaji": "kamishikishako"
+},
+{
+"code": "120297",
+"name": "総合医療センター",
+"kana": "そうごういりょうせんたー",
+"romaji": "sougouiryousentaa"
+},
+{
+"code": "120223",
+"name": "総合市場前",
+"kana": "そうごうしじょうまえ",
+"romaji": "sougoushijoumae"
+},
+{
+"code": "110367",
+"name": "緑台交番前",
+"kana": "みどりだいこうばんまえ",
+"romaji": "midoridaikoubanmae"
+},
+{
+"code": "120267",
+"name": "美野里町",
+"kana": "みのりまち",
+"romaji": "minorimachi"
+},
+{
+"code": "110289",
+"name": "習志野",
+"kana": "ならしの",
+"romaji": "narashino"
+},
+{
+"code": "110369",
+"name": "習志野一丁目",
+"kana": "ならしのいっちょうめ",
+"romaji": "narashinoitchoume"
+},
+{
+"code": "110286",
+"name": "習志野原",
+"kana": "ならしのはら",
+"romaji": "narashinohara"
+},
+{
+"code": "110229",
+"name": "習志野台一丁目",
+"kana": "ならしのだいいっちょうめ",
+"romaji": "narashinodaiitchoume"
+},
+{
+"code": "110264",
+"name": "習志野台三丁目",
+"kana": "ならしのだいさんちょうめ",
+"romaji": "narashinodaisanchoume"
+},
+{
+"code": "110341",
+"name": "習志野台八丁目",
+"kana": "ならしのだいはっちょうめ",
+"romaji": "narashinodaihatchoume"
+},
+{
+"code": "110288",
+"name": "習志野西営業所",
+"kana": "ならしのにしえいぎょうしょ",
+"romaji": "narashinonishieigyousho"
+},
+{
+"code": "110267",
+"name": "習志野駐屯地",
+"kana": "ならしのちゅうとんち",
+"romaji": "narashinochuutonchi"
+},
+{
+"code": "110224",
+"name": "聖人塚",
+"kana": "せいじんつか",
+"romaji": "seijintsuka"
+},
+{
+"code": "120225",
+"name": "胡録台",
+"kana": "ころくだい",
+"romaji": "korokudai"
+},
+{
+"code": "520311",
+"name": "船戸",
+"kana": "ふなど",
+"romaji": "funado"
+},
+{
+"code": "110366",
+"name": "船橋グリーンハイツ",
+"kana": "ふなばしぐりーんはいつ",
+"romaji": "funabashiguriinhaitsu"
+},
+{
+"code": "110214",
+"name": "船橋中央市場",
+"kana": "ふなばしちゅうおうしじょう",
+"romaji": "funabashichuuoushijou"
+},
+{
+"code": "110103",
+"name": "船橋中学校前",
+"kana": "ふなばしちゅうがっこうまえ",
+"romaji": "funabashichuugakkoumae"
+},
+{
+"code": "110249",
+"name": "船橋整形外科",
+"kana": "ふなばしせいけいげか",
+"romaji": "funabashiseikeigeka"
+},
+{
+"code": "110623",
+"name": "船橋整形外科クリニック",
+"kana": "ふなばしせいけいげかくりにっく",
+"romaji": "funabashiseikeigekakurinikku"
+},
+{
+"code": "110384",
+"name": "船橋日大前駅",
+"kana": "ふなばしにちだいぜんえき",
+"romaji": "funabashinichidaizen'eki"
+},
+{
+"code": "110216",
+"name": "船橋警察署",
+"kana": "ふなばしけいさつしょ",
+"romaji": "funabashikeisatsusho"
+},
+{
+"code": "110100",
+"name": "船橋駅北口",
+"kana": "ふなばしえききたぐち",
+"romaji": "funabashiekikitaguchi"
+},
+{
+"code": "110236",
+"name": "芝山中学校",
+"kana": "しばやまちゅうがっこう",
+"romaji": "shibayamachuugakkou"
+},
+{
+"code": "110223",
+"name": "芝山団地入口",
+"kana": "しばやまだんちいりぐち",
+"romaji": "shibayamadanchiiriguchi"
+},
+{
+"code": "120237",
+"name": "花島",
+"kana": "はなしま",
+"romaji": "hanashima"
+},
+{
+"code": "120137",
+"name": "若芝",
+"kana": "わかしば",
+"romaji": "wakashiba"
+},
+{
+"code": "120262",
+"name": "若芝西",
+"kana": "わかしばにし",
+"romaji": "wakashibanishi"
+},
+{
+"code": "120218",
+"name": "萩町",
+"kana": "はぎまち",
+"romaji": "hagimachi"
+},
+{
+"code": "120111",
+"name": "蓮田橋",
+"kana": "はすだはし",
+"romaji": "hasudahashi"
+},
+{
+"code": "110278",
+"name": "薬円台南小学校",
+"kana": "やくえんだいみなみしょうがっこう",
+"romaji": "yakuendaiminamishougakkou"
+},
+{
+"code": "110271",
+"name": "薬円台１丁目",
+"kana": "やくえんだい１ちょうめ",
+"romaji": "yakuendai1choume"
+},
+{
+"code": "110269",
+"name": "薬円台２丁目",
+"kana": "やくえんだい２ちょうめ",
+"romaji": "yakuendai2choume"
+},
+{
+"code": "110272",
+"name": "薬園台駅入口",
+"kana": "やくえんだいえきいりぐち",
+"romaji": "yakuendaiekiiriguchi"
+},
+{
+"code": "110270",
+"name": "薬園台高校入口",
+"kana": "やくえんだいこうこういりぐち",
+"romaji": "yakuendaikoukouiriguchi"
+},
+{
+"code": "210349",
+"name": "藤台中央公園",
+"kana": "ふじだいちゅうおうこうえん",
+"romaji": "fujidaichuuoukouen"
+},
+{
+"code": "210321",
+"name": "藤台第二公園",
+"kana": "ふじだいだいにこうえん",
+"romaji": "fujidaidainikouen"
+},
+{
+"code": "110188",
+"name": "血液センター",
+"kana": "けつえきせんたー",
+"romaji": "ketsuekisentaa"
+},
+{
+"code": "120138",
+"name": "行政センター",
+"kana": "ぎょうせいせんたー",
+"romaji": "gyouseisentaa"
+},
+{
+"code": "120239",
+"name": "衛生会館",
+"kana": "えいせいかいかん",
+"romaji": "eiseikaikan"
+},
+{
+"code": "120131",
+"name": "表門",
+"kana": "おもてもん",
+"romaji": "omotemon"
+},
+{
+"code": "120191",
+"name": "西新田",
+"kana": "にししんた",
+"romaji": "nishishinta"
+},
+{
+"code": "310132",
+"name": "西白井駅",
+"kana": "にししらいえき",
+"romaji": "nishishiraieki"
+},
+{
+"code": "110172",
+"name": "西福寺入口",
+"kana": "さいふくてらいりくち",
+"romaji": "saifukuterairikuchi"
+},
+{
+"code": "110618",
+"name": "西船橋駅",
+"kana": "にしふなばしえき",
+"romaji": "nishifunabashieki"
+},
+{
+"code": "110395",
+"name": "證大寺昭和浄苑",
+"kana": "しょうおおてらしょうわじょうえん",
+"romaji": "shouooterashouwajouen"
+},
+{
+"code": "110642",
+"name": "豊富北",
+"kana": "ほうふきた",
+"romaji": "houfukita"
+},
+{
+"code": "110176",
+"name": "豊富農協前",
+"kana": "ほうふのうきょうまえ",
+"romaji": "houfunoukyoumae"
+},
+{
+"code": "110640",
+"name": "豊富高校前",
+"kana": "ほうふこうこうまえ",
+"romaji": "houfukoukoumae"
+},
+{
+"code": "120149",
+"name": "貝の花",
+"kana": "かいのはな",
+"romaji": "kainohana"
+},
+{
+"code": "120260",
+"name": "貝の花小学校",
+"kana": "かいのはなしょうがっこう",
+"romaji": "kainohanashougakkou"
+},
+{
+"code": "210357",
+"name": "貝柄山公園入口",
+"kana": "かいからやまこうえんいりぐち",
+"romaji": "kaikarayamakoueniriguchi"
+},
+{
+"code": "110290",
+"name": "車検場",
+"kana": "しゃけんじょう",
+"romaji": "shakenjou"
+},
+{
+"code": "120230",
+"name": "運動公園",
+"kana": "うんどうこうえん",
+"romaji": "undoukouen"
+},
+{
+"code": "110111",
+"name": "運動公園前",
+"kana": "うんどうこうえんまえ",
+"romaji": "undoukouenmae"
+},
+{
+"code": "210356",
+"name": "道野辺中央",
+"kana": "みちのべちゅうおう",
+"romaji": "michinobechuuou"
+},
+{
+"code": "210117",
+"name": "郵便局前",
+"kana": "ゆうびんきょくまえ",
+"romaji": "yuubinkyokumae"
+},
+{
+"code": "120217",
+"name": "郵便局前（松戸市）",
+"kana": "ゆうびんきょくまえ（まつどし）",
+"romaji": "yuubinkyokumae(matsudoshi)"
+},
+{
+"code": "110268",
+"name": "郷土資料館",
+"kana": "きょうどしりょうかん",
+"romaji": "kyoudoshiryoukan"
+},
+{
+"code": "120166",
+"name": "配水場前",
+"kana": "はいすいばまえ",
+"romaji": "haisuibamae"
+},
+{
+"code": "210122",
+"name": "配給所前",
+"kana": "はいきゅうところまえ",
+"romaji": "haikyuutokoromae"
+},
+{
+"code": "310149",
+"name": "野口台公園",
+"kana": "のぐちだいこうえん",
+"romaji": "noguchidaikouen"
+},
+{
+"code": "120222",
+"name": "野菊野団地",
+"kana": "のぎくのだんち",
+"romaji": "nogikunodanchi"
+},
+{
+"code": "120184",
+"name": "金ヶ作入口",
+"kana": "きんゖさくいりぐち",
+"romaji": "kinkesakuiriguchi"
+},
+{
+"code": "110234",
+"name": "金堀",
+"kana": "かねほり",
+"romaji": "kanehori"
+},
+{
+"code": "110195",
+"name": "金堀入口",
+"kana": "かねほりいりぐち",
+"romaji": "kanehoriiriguchi"
+},
+{
+"code": "110232",
+"name": "金堀坂下",
+"kana": "かねほりさかした",
+"romaji": "kanehorisakashita"
+},
+{
+"code": "110156",
+"name": "金杉中央",
+"kana": "かなすぎちゅうおう",
+"romaji": "kanasugichuuou"
+},
+{
+"code": "110154",
+"name": "金杉会館",
+"kana": "かなすぎかいかん",
+"romaji": "kanasugikaikan"
+},
+{
+"code": "110629",
+"name": "金杉会館前",
+"kana": "かなすぎかいかんまえ",
+"romaji": "kanasugikaikanmae"
+},
+{
+"code": "110211",
+"name": "金杉台団地",
+"kana": "かなすぎだいだんち",
+"romaji": "kanasugidaidanchi"
+},
+{
+"code": "110628",
+"name": "金杉台団地入口",
+"kana": "かなすぎだいだんちいりぐち",
+"romaji": "kanasugidaidanchiiriguchi"
+},
+{
+"code": "110625",
+"name": "金杉台団地２街区",
+"kana": "かなすぎだいだんち２がいく",
+"romaji": "kanasugidaidanchi2gaiku"
+},
+{
+"code": "110152",
+"name": "金杉坂上",
+"kana": "かなすぎさかうえ",
+"romaji": "kanasugisakaue"
+},
+{
+"code": "110153",
+"name": "金杉町",
+"kana": "かなすぎまち",
+"romaji": "kanasugimachi"
+},
+{
+"code": "110155",
+"name": "金杉緑地",
+"kana": "かなすぎりょくち",
+"romaji": "kanasugiryokuchi"
+},
+{
+"code": "120197",
+"name": "金楠台",
+"kana": "きんくすのきだい",
+"romaji": "kinkusunokidai"
+},
+{
+"code": "110641",
+"name": "鈴身町",
+"kana": "すずみちょう",
+"romaji": "suzumichou"
+},
+{
+"code": "210538",
+"name": "鎌ケ谷高校入口",
+"kana": "かまけたにこうこういりぐち",
+"romaji": "kamaketanikoukouiriguchi"
+},
+{
+"code": "210119",
+"name": "鎌ヶ谷",
+"kana": "かまゖたに",
+"romaji": "kamaketani"
+},
+{
+"code": "210325",
+"name": "鎌ヶ谷グリーンハイツ",
+"kana": "かまゖたにぐりーんはいつ",
+"romaji": "kamaketaniguriinhaitsu"
+},
+{
+"code": "210123",
+"name": "鎌ヶ谷大仏",
+"kana": "かまゖたにだいぶつ",
+"romaji": "kamaketanidaibutsu"
+},
+{
+"code": "210120",
+"name": "鎌ヶ谷新田",
+"kana": "かまゖたににった",
+"romaji": "kamaketaninitta"
+},
+{
+"code": "110243",
+"name": "長福寺入口",
+"kana": "ちょうふくてらいりくち",
+"romaji": "choufukuterairikuchi"
+},
+{
+"code": "310128",
+"name": "開拓入口",
+"kana": "かいたくいりぐち",
+"romaji": "kaitakuiriguchi"
+},
+{
+"code": "120290",
+"name": "関さんの森",
+"kana": "かんさんのもり",
+"romaji": "kansannomori"
+},
+{
+"code": "120268",
+"name": "陣ヶ前",
+"kana": "じんゖまえ",
+"romaji": "jinkemae"
+},
+{
+"code": "110222",
+"name": "雄鹿野",
+"kana": "おじかの",
+"romaji": "ojikano"
+},
+{
+"code": "110114",
+"name": "霊園入口",
+"kana": "れいえんいりぐち",
+"romaji": "reieniriguchi"
+},
+{
+"code": "120122",
+"name": "霊園坂下",
+"kana": "れいえんさかした",
+"romaji": "reiensakashita"
+},
+{
+"code": "110352",
+"name": "青山病院",
+"kana": "あおやまびょういん",
+"romaji": "aoyamabyouin"
+},
+{
+"code": "110170",
+"name": "須賀神社",
+"kana": "すがじんじゃ",
+"romaji": "sugajinja"
+},
+{
+"code": "110252",
+"name": "飯山満二丁目自治会館",
+"kana": "いいやままんにちょうめじちかいかん",
+"romaji": "iiyamamannichoumejichikaikan"
+},
+{
+"code": "110248",
+"name": "飯山満入口",
+"kana": "いいやままんいりぐち",
+"romaji": "iiyamamaniriguchi"
+},
+{
+"code": "110250",
+"name": "飯山満南小学校",
+"kana": "いいやままんみなみしょうがっこう",
+"romaji": "iiyamamanminamishougakkou"
+},
+{
+"code": "110368",
+"name": "飯山満駅",
+"kana": "いいやままんえき",
+"romaji": "iiyamamaneki"
+},
+{
+"code": "120144",
+"name": "馬橋駅入口",
+"kana": "まばしえきいりぐち",
+"romaji": "mabashiekiiriguchi"
+},
+{
+"code": "120113",
+"name": "馬橋駅西口",
+"kana": "まばしえきにしぐち",
+"romaji": "mabashiekinishiguchi"
+},
+{
+"code": "110112",
+"name": "馬込斎場前",
+"kana": "うまごめさいじょうまえ",
+"romaji": "umagomesaijoumae"
+},
+{
+"code": "110115",
+"name": "馬込沢",
+"kana": "うまごめさわ",
+"romaji": "umagomesawa"
+},
+{
+"code": "110316",
+"name": "馬込沢駅",
+"kana": "うまごめさわえき",
+"romaji": "umagomesawaeki"
+},
+{
+"code": "110376",
+"name": "馬込沢駅東口",
+"kana": "うまごめさわえきひがしぐち",
+"romaji": "umagomesawaekihigashiguchi"
+},
+{
+"code": "110997",
+"name": "馬込霊園",
+"kana": "うまごめれいえん",
+"romaji": "umagomereien"
+},
+{
+"code": "110393",
+"name": "馬頭観音",
+"kana": "めずかんのん",
+"romaji": "mezukannon"
+},
+{
+"code": "110389",
+"name": "駒形神社",
+"kana": "こまがたじんじゃ",
+"romaji": "komagatajinja"
+},
+{
+"code": "110220",
+"name": "駿河台",
+"kana": "するがだい",
+"romaji": "surugadai"
+},
+{
+"code": "110304",
+"name": "高根公団駅",
+"kana": "たかねこうだんえき",
+"romaji": "takanekoudaneki"
+},
+{
+"code": "110227",
+"name": "高根台七丁目",
+"kana": "たかねだいしちちょうめ",
+"romaji": "takanedaishichichoume"
+},
+{
+"code": "110305",
+"name": "高根台保育園",
+"kana": "たかねだいほいくえん",
+"romaji": "takanedaihoikuen"
+},
+{
+"code": "110302",
+"name": "高根台病院前",
+"kana": "たかねだいびょういんまえ",
+"romaji": "takanedaibyouinmae"
+},
+{
+"code": "110230",
+"name": "高根台第二小学校",
+"kana": "たかねだいだいにしょうがっこう",
+"romaji": "takanedaidainishougakkou"
+},
+{
+"code": "110362",
+"name": "高根小学校前",
+"kana": "たかねしょうがっこうまえ",
+"romaji": "takaneshougakkoumae"
+},
+{
+"code": "110228",
+"name": "高根木戸駅",
+"kana": "たかねきどえき",
+"romaji": "takanekidoeki"
+},
+{
+"code": "310708",
+"name": "高津公民館",
+"kana": "たかつこうみんかん",
+"romaji": "takatsukouminkan"
+},
+{
+"code": "310294",
+"name": "高津商店街",
+"kana": "たかつしょうてんがい",
+"romaji": "takatsushoutengai"
+},
+{
+"code": "310295",
+"name": "高津団地中央",
+"kana": "たかつだんちちゅうおう",
+"romaji": "takatsudanchichuuou"
+},
+{
+"code": "410295",
+"name": "高津団地中央",
+"kana": "たかつだんちちゅうおう",
+"romaji": "takatsudanchichuuou"
+},
+{
+"code": "310293",
+"name": "高津団地入口",
+"kana": "たかつだんちいりぐち",
+"romaji": "takatsudanchiiriguchi"
+},
+{
+"code": "310709",
+"name": "高津団地東口",
+"kana": "たかつだんちひがしぐち",
+"romaji": "takatsudanchihigashiguchi"
+},
+{
+"code": "110240",
+"name": "高郷",
+"kana": "たかさと",
+"romaji": "takasato"
+},
+{
+"code": "110345",
+"name": "高野台さざんか公園",
+"kana": "こうやだいさざんかこうえん",
+"romaji": "kouyadaisazankakouen"
+},
+{
+"code": "110331",
+"name": "高野台一丁目",
+"kana": "こうやだいいっちょうめ",
+"romaji": "kouyadaiitchoume"
+},
+{
+"code": "110344",
+"name": "高野台三丁目",
+"kana": "こうやだいさんちょうめ",
+"romaji": "kouyadaisanchoume"
+},
+{
+"code": "110342",
+"name": "高野台二丁目",
+"kana": "こうやだいにちょうめ",
+"romaji": "kouyadainichoume"
+},
+{
+"code": "110347",
+"name": "高野台五丁目",
+"kana": "こうやだいごちょうめ",
+"romaji": "kouyadaigochoume"
+},
+{
+"code": "110346",
+"name": "高野台四丁目",
+"kana": "こうやだいしていめ",
+"romaji": "kouyadaishiteime"
+},
+{
+"code": "110343",
+"name": "高野台市民の森",
+"kana": "こうやだいしみんのもり",
+"romaji": "kouyadaishiminnomori"
+},
+{
+"code": "210358",
+"name": "１２号棟前",
+"kana": "１２ごうとうまえ",
+"romaji": "12goutoumae"
+},
+{
+"code": "210360",
+"name": "２号棟前",
+"kana": "２ごうとうまえ",
+"romaji": "2goutoumae"
+},
+{
+"code": "210322",
+"name": "３６号棟前",
+"kana": "３６ごうとうまえ",
+"romaji": "36goutoumae"
+},
+{
+"code": "210350",
+"name": "６号棟前",
+"kana": "６ごうとうまえ",
+"romaji": "6goutoumae"
+}
+]
+}

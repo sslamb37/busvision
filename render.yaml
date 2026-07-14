@@ -1,0 +1,15 @@
+# One-click deploy config for Render (https://render.com).
+# In the Render dashboard: New + → Blueprint → point at this repo.
+services:
+  - type: web
+    name: busvision
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python3 liveview.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.8"
+      # optional: default UI language on load (en | ja); toggle still works in-page
+      - key: LANG_DEFAULT
+        value: en
